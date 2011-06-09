@@ -1,0 +1,7 @@
+a tiny sendfile server/client implent by Go.
+
+usage:
+    ./sf_server
+	./sf_client -s server_ip file1 file2 [server_dir] 
+	
+	* the server_dir is optional
